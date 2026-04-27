@@ -56,7 +56,7 @@ src/
 1. Clone the repository
 
 ```
-git clone <your-repo-link>
+git clone <https://github.com/SaiyamDoshi7/Firebase-Storage.git>
 cd Document-Manager
 ```
 
