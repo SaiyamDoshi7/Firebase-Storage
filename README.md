@@ -1,4 +1,4 @@
-# 📁 Document Manager Hub
+# 📁 Document Hub
 
 A simple file management web application built using React and Redux.
 Users can upload, view, search, and delete files in one place.
